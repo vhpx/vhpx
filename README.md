@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/phucvo0708/phucvo0708/master/Hi.gif" width="30px">, I am Võ Hoàng Phúc.</h1>
 
-<p align="center" width="150px"> I have been working on several Flutter projects with Firebase & Supabase integrations.<br><br>Discord: </p>
+<p align="center" width="150px"> I have been working on several Flutter projects with Firebase & Supabase integrations.<br><br>Discord: <strong>Azura#1234<strong></p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bphucvo0708%7D/count.svg" alt="visitor badge"/></p>
