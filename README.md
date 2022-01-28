@@ -1,37 +1,25 @@
-<p align="center"><img src="https://raw.githubusercontent.com/phucvo0708/phucvo0708/master/header.png"></p>
+# 💫About Me :
+⚡I've worked on several Flutter projects and Next.js/React projects with Firebase & Supabase integrations.
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/phucvo0708/phucvo0708/master/Hi.gif" width="30px">, I am Võ Hoàng Phúc.</h1>
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vohoangphucc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phucc3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vohoangphuc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/phucvo0708) 
 
-<p align="center" width="150px">I've worked on several Flutter projects and Next.js/React projects with Firebase & Supabase integrations.</p>
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=phucvo0708&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phucvo0708&theme=dracula&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phucvo0708&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bphucvo0708%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucvo0708&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=phucvo0708&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=phucvo0708&theme=chartreuse-dark"></p>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=phucvo0708&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### 🛠 &nbsp;Tech Stack
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+---
+![](https://komarev.com/ghpvc/?username=phucvo0708&label=Visitors+Count&color=brightgreen)
 
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href="https://linkedin.com/in/vohoangphuc"><img src="https://img.shields.io/badge/-Võ%20Hoàng%20Phúc-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:phucvo0708@gmail.com"><img src="https://img.shields.io/badge/-phucvo0708@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/phucvo0708"><img src="https://img.shields.io/badge/-phucvo0708-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
+  ## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/phucvo0708)
+  
