@@ -1,5 +1,5 @@
 # 💫About Me :
-⚡I've worked on several Flutter projects and Next.js/React projects with Firebase & Supabase integrations.
+⚡I've worked on several Flutter projects and Next.js projects with both Firebase & Supabase integrations.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vohoangphucc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phucc3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vohoangphuc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vohoangphuc_) 
