@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Võ Hoàng Phúc</h1>
+<h1 align="center">Greetings 👋, I'm Võ Hoàng Phúc</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam.</h3>
 
 ## 🏆GitHub Trophies
