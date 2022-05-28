@@ -5,8 +5,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png"></p>
 
 <h1 align="center">Hi 👋, I'm
-    <a href="https://www.vohoangphuc.com">Võ Hoàng Phúc</a>
-.</h1>
+    <a href="https://www.vohoangphuc.com">Võ Hoàng Phúc</a>.
+</h1>
 <h3 align="center">A passionate fullstack developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
