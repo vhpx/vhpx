@@ -6,11 +6,13 @@
 
 ## About me
 
-- 🔭 I’m currently working on [vohoangphuc.com](https://www.vohoangphuc.com)
+- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)**.
 
-- 💬 Ask me about **React.js, Next.js and Tailwind CSS**
+- ✨ Adopting **[Supabase](https://supabase.com/)** as the primary backend provider.
 
-- 📫 How to reach me **vhp@duck.com**
+- 💬 Ask me about **React.js, Next.js and Tailwind CSS**.
+
+- 📫 How to reach me **vhp@duck.com**.
 
 ## Connect with me
 
@@ -26,6 +28,6 @@
 
 ## Statistics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="vhpx" /></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="vhpx" /></a></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="vhpx" /></p>
+<p align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="vhpx" /></a></p>
