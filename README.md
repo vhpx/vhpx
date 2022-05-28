@@ -1,11 +1,13 @@
 <!-- markdownlint-disable MD033 -->
 
-# @vhpx
+# @vhpx / Vo Hoang Phuc
 
 <p align="center"><img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png"></p>
 
-<h1 align="center">Greetings 👋, I'm Võ Hoàng Phúc</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam.</h3>
+<h1 align="center">Hi 👋, I'm Võ Hoàng Phúc.</h1>
+<h3 align="center">A passionate fullstack developer from
+    <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
+</h3>
 
 ## 🏆GitHub Trophies
 
