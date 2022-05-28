@@ -2,7 +2,11 @@
 
 # @vhpx / Võ Hoàng Phúc
 
-<p align="center"><img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png"></p>
+<p align="center">
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png">
+    </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm
     <a href="https://www.vohoangphuc.com">Võ Hoàng Phúc</a>.
