@@ -1,10 +1,12 @@
 <!-- markdownlint-disable MD033 -->
 
-# @vhpx / Vo Hoang Phuc
+# @vhpx / Võ Hoàng Phúc
 
 <p align="center"><img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png"></p>
 
-<h1 align="center">Hi 👋, I'm Võ Hoàng Phúc.</h1>
+<h1 align="center">Hi 👋, I'm
+    <a href="https://www.vohoangphuc.com">Võ Hoàng Phúc</a>
+.</h1>
 <h3 align="center">A passionate fullstack developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
@@ -23,7 +25,7 @@
 
 - ✨ Adopting **[Supabase](https://supabase.com/)** as the primary backend provider.
 
-- 💬 Ask me about **React.js, Next.js and Tailwind CSS**.
+- 💬 Ask me about **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
 
 - 📫 How to reach me **vhp@duck.com**.
 
