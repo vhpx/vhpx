@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js, Next.js and Tailwind CSS**
 
-- 📫 How to reach me **work@vohoangphuc.com**
+- 📫 How to reach me **vhp@duck.com**
 
 ## Connect with me
 
