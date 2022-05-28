@@ -18,7 +18,7 @@
 ## 🏆GitHub Trophies
 
 <p align="center">
-    <a href="#">
+    <a href="#github-trophies">
         <img src="https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="vhpx" />
     </a>
 </p>
@@ -145,13 +145,13 @@
 ## Statistics
 
 <p align="center">
-    <a href="#">
+    <a href="#statistics">
         <img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="vhpx" />
     </a>
 </p>
 
 <p align="center">
-    <a href="#">
+    <a href="#statistics">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="vhpx" />
     </a>
 </p>
