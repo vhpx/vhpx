@@ -25,13 +25,13 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)**.
+- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)** and **[Tuturuuu](https://www.tuturuuu.com)**.
 
-- ✨ Adopting **[Supabase](https://supabase.com/)** as the primary backend provider.
+- ✨ Adopting **[Supabase](https://supabase.com/)** and **[Firebase](https://firebase.google.com/)** as the primary backend provider.
 
-- 💬 Ask me about **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
+- 💬 Ask me about **[Flutter](https://flutter.dev/)**, **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
 
-- 📫 How to reach me **vhp@duck.com**.
+- 📫 How to reach me **contact@vohoangphuc.com** / **vohoangphuc@tuturuuu.com**.
 
 ## Connect with me
 
