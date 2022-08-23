@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="#github-trophies">
-        <img src="https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="vhpx" />
+        <img src="https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="@vhpx's Github Trophies" />
     </a>
 </p>
 
@@ -37,13 +37,13 @@
 
 <p align="left">
     <a href="https://twitter.com/vohoangphuc_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vohoangphuc_" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vohoangphuc_ on Twitter" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/vohoangphuc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vohoangphuc" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vohoangphuc on LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/vohoangphuc" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vohoangphuc" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@vohoangphuc on LeetCode" height="30" width="40" />
     </a>
 </p>
 
@@ -146,12 +146,12 @@
 
 <p align="center">
     <a href="#statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="vhpx" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="@vhpx's Github Stats" />
     </a>
 </p>
 
 <p align="center">
     <a href="#statistics">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="vhpx" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="@vhpx's Streaks" />
     </a>
 </p>
