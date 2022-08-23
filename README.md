@@ -25,7 +25,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)** and **[Tuturuuu](https://www.tuturuuu.com)**.
+- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)** and **[Tuturuuu](https://tuturuuu.com)**.
 
 - ✨ Adopting **[Supabase](https://supabase.com/)** and **[Firebase](https://firebase.google.com/)** as the primary backend provider.
 
