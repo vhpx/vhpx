@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/vhpx/vhpx/master/background.png">
+        <img src="https://raw.githubusercontent.com/vhpx/vhpx/master/images/background.png">
     </a>
 </p>
 
