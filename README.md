@@ -25,7 +25,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[vohoangphuc.com](https://www.vohoangphuc.com)** and **[Tuturuuu](https://tuturuuu.com)**.
+- 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
 
 - ✨ Adopting **[Supabase](https://supabase.com/)** and **[Firebase](https://firebase.google.com/)** as the primary backend provider.
 
@@ -139,19 +139,5 @@
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
-</p>
-
-## Statistics
-
-<p align="center">
-    <a href="#statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=vhpx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="@vhpx's Github Stats" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="#statistics">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhpx&theme=dracula&hide_border=true" alt="@vhpx's Streaks" />
     </a>
 </p>
