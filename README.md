@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
 
-- ✨ Adopting **[Supabase](https://supabase.com/)** and **[Firebase](https://firebase.google.com/)** as the primary backend provider.
+- ✨ Adopting **[Supabase](https://supabase.com/)** as the primary backend provider.
 
 - 💬 Ask me about **[Flutter](https://flutter.dev/)**, **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
 
