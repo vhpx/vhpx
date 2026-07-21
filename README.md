@@ -15,23 +15,13 @@
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
 
-## 🏆GitHub Trophies
-
-<p align="center">
-    <a href="#github-trophies">
-        <img src="https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="@vhpx's Github Trophies" />
-    </a>
-</p>
-
 ## About me
 
-- 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)**.
+- 🔭 I’m currently working on **[Tuturuuu](https://tuturuuu.com)** as a **Technical Founder & CEO**.
 
-- ✨ Adopting **[Supabase](https://supabase.com/)** as the primary backend provider.
+- 🎓 I'm also working at **[RMIT University Vietnam](https://www.rmit.edu.vn/)** as a **Research Assistant**.
 
-- 💬 Ask me about **[Flutter](https://flutter.dev/)**, **[React.js](https://reactjs.org/)**, **[Next.js](https://nextjs.org/)** and **[Tailwind CSS](https://tailwindcss.com/)**.
-
-- 📫 How to reach me **contact@vohoangphuc.com** / **vohoangphuc@tuturuuu.com**.
+- 📫 How to reach me **contact@vohoangphuc.com** (Work) / **phucvo@tuturuuu.com** (Tuturuuu).
 
 ## Connect with me
 
@@ -136,8 +126,5 @@
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
 </p>
